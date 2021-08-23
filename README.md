@@ -1,7 +1,6 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
-
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 <!--
 **neslihanyetik/neslihanyetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
