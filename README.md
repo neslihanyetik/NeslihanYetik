@@ -3,8 +3,8 @@
 - 🧐 I am interested in Data Science. Likewise Artificial intelligence Enthusiast. 
 - 🌱 I love research and development.
 
+![](https://github.com/neslihanyetik&label=PROFILE+VIEWS)
 
-![](https://github.com/neslihanyetik&color=grey)
 
 
 <!--
