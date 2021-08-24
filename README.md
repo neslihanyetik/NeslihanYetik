@@ -10,13 +10,13 @@
 
 ### 🌈 Languages and Tools:
 <img
-src="https://camo.githubusercontent.com/921e67a5d1b8c00c08614983f1e86accda3bf9ecbbaa20092081cc1485c2c5f8/68747470733a2f2f7777772e6b6f64696b732e636f6d2f6173736574732f696d616765732f69636f6e2d746563686e6f6c6f67792f705542593570566a2e706e67" width="50" height="50"
+src="https://image.flaticon.com/icons/png/512/3098/3098090.png" width="50" height="50"
 />
 <img
 src="https://image.flaticon.com/icons/png/512/4248/4248349.png" width="50" height="50"
 />
 <img
-src="https://image.flaticon.com/icons/png/512/919/919836.png" width="50" height="50"
+src="https://image.flaticon.com/icons/png/512/274/274437.png" width="50" height="50"
 />
 <img
 src="https://image.flaticon.com/icons/png/512/919/919826.png" width="50" height="50"
