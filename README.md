@@ -6,7 +6,6 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
 
 ### 🌈 Languages and Tools:
 <img
@@ -42,7 +41,7 @@ src="https://image.flaticon.com/icons/png/512/2584/2584687.png" width="50" heigh
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
 
 
 <!--
