@@ -1,4 +1,4 @@
-### Hi there 👋,   My name is Neslihan.
+### Hi there 👋,   I'm Neslihan.
 
 - 🧐 I am interested in Data Science. Likewise Artificial intelligence Enthusiast. 
 - 🌱 I love research and development.
@@ -7,7 +7,7 @@
 
 
 
-### 🌈 Languages and Tools:
+## 🌈 Languages and Tools:
 <img
 src="https://image.flaticon.com/icons/png/512/3098/3098090.png" width="50" height="50"
 />
