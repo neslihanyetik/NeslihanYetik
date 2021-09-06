@@ -1,6 +1,6 @@
-### Hi there 👋,   I'm Neslihan.
+### Hi 👋, I'm Neslihan.
 
-- 🧐 I am interested in Data Science. Likewise Artificial intelligence Enthusiast. 
+- 🧐 I am interested in Data Science. 
 - 🌱 I love research and development.
 
 
