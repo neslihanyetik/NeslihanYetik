@@ -34,25 +34,25 @@ src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9
 
 ## ⚙ Languages and Tools:
 <img
-src="https://www.linuxadictos.com/wp-content/uploads/python-logo.jpg.webp" width="100" height="70"
+src="https://www.linuxadictos.com/wp-content/uploads/python-logo.jpg.webp" width="90" height="60"
 />
 <img
-src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="100" height="70"
+src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="100" height="60"
 />
 <img
-src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="80" height="70"
+src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" width="70" height="60"
 />
 <img
-src="https://www.westonschools.org/wp-content/uploads/2017/06/google-sheets-icon-600x567.jpg" width="100" height="70"
+src="https://www.westonschools.org/wp-content/uploads/2017/06/google-sheets-icon-600x567.jpg" width="90" height="60"
 />
 <img
-src="https://image.flaticon.com/icons/png/512/2504/2504911.png" width="60" height="60"
+src="https://image.flaticon.com/icons/png/512/2504/2504911.png" width="60" height="55"
 />
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/996px-Slack_Technologies_Logo.svg.png" width="140" height="60"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/996px-Slack_Technologies_Logo.svg.png" width="140" height="50"
 />
 <img
-src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="120" height="70"
+src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="120" height="60"
 />
 
 
