@@ -17,7 +17,7 @@ src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.
 
 ## 💻 Python Libraries:
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="140" height="90"
+src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="150" height="90"
 />
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="150" height="90"
