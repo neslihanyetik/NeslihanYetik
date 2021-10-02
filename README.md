@@ -14,7 +14,6 @@ src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="170" 
 src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" width="140" height="100"
 />
 
-
 ## 💻 Python Libraries:
 <img
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="150" height="90"
@@ -56,10 +55,8 @@ src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501
 />
 
 
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
 
 
@@ -77,5 +74,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=neslihanyetik&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+- [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
