@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Neslihan.
 
-- 🧐 I'm interested in Data Science. 
+- ✨ I'm interested in Data Science. 
 - 🌱 I love research and development.
 
 ## 🌈 Data Visualization:
@@ -57,10 +57,12 @@ src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
 
 
 <!--
+![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
+
+
 **neslihanyetik/neslihanyetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
