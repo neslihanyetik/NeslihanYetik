@@ -57,7 +57,6 @@ src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
 
 
 <!--
