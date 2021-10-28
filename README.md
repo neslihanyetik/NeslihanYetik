@@ -3,7 +3,7 @@
   - ✨ I'm interested in Data Science. 
   - 🌱 I love research and development.
 
-#### Languages and Tools:
+#### Languages, Libraries and Tools:
 
 <img
 src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="70" height="40"
@@ -34,9 +34,6 @@ src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images
 />
 <img
 src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="70" height="40"
-/>
-<img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/996px-Slack_Technologies_Logo.svg.png" width="60" height="30"
 />
 <img
 src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="40"
