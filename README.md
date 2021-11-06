@@ -1,7 +1,8 @@
 #### Hi 👋, I'm Neslihan.
 
-  - ✨ I'm interested in Data Science. 
-  - 🌱 I love research and development.
+  - :dizzy:  I'm interested in Data Science. 
+  - 🤸‍♀️  I’m currently learning on Data Analyze,Data Visualization Tools.
+  - 🌱  I love research and development.
 
 ## Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neslihan-yetik/)
