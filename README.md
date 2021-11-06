@@ -44,7 +44,6 @@ src="https://logos-download.com/wp-content/uploads/2016/09/Slack_logo.png" width
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
 
 <!--
 
@@ -54,6 +53,9 @@ src="https://logos-download.com/wp-content/uploads/2016/09/Slack_logo.png" width
 
 
 **neslihanyetik/neslihanyetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
+
 
 Here are some ideas to get you started:
 
