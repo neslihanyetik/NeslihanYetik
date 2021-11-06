@@ -3,6 +3,27 @@
   - ✨ I'm interested in Data Science. 
   - 🌱 I love research and development.
 
+### Social:
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neslihan-yetik/)
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/neslihanyetik)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:neslihanyetik5@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@neslihanyetik5)
+
+## 💻 Python Libraries and Languages 
+
+
+<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
+<a href="#" target="_blank"> <img src="https://www.scipy.org/_static/logo.png" alt="SciPy" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
+<a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
+
+
+
+
+
+
 #### Languages, Libraries and Tools:
 
 <img
@@ -43,11 +64,11 @@ src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
- ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
-
+ 
 
 <!--
 
+![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
 
 
 **neslihanyetik/neslihanyetik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
