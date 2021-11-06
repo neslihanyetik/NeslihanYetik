@@ -38,7 +38,9 @@ src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-serve
 <img
 src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="40"
 />
-
+<img
+src="https://logos-download.com/wp-content/uploads/2016/09/Slack_logo.png" width="70" height="40"
+/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
