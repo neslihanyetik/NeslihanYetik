@@ -6,31 +6,31 @@
 #### Languages, Libraries and Tools:
 
 <img
-src="https://promto.com/wp-content/uploads/2019/08/icon-tableau-1.png" width="70" height="40"
+src="https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c/file.png" width="75" height="50"
 />
 <img
-src="https://miro.medium.com/max/805/1*aUSZsGFCMPNYCkQygs4aGQ.jpeg" width="70" height="40"
+src="https://www.janmeppe.com/assets/2019-12-24-matplotlib/matplotlib.jpg" width="70" height="40"
 />
 <img
-src="https://seekvectorlogo.com/wp-content/uploads/2018/12/power-bi-vector-logo.png" width="70" height="40"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSx7IOH3PCdi4foU4pJ0qAQxVPRvFXieYFJNAKjAz1gnPsaHr_NhW9gY2Zl8L7c-Y_hJ8&usqp=CAU" width="70" height="40"
 />
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="70" height="40"
+src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" width="70" height="40"
 />
 <img
-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="70" height="40"
+src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="70" height="40"
 />
 <img
-src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" width="60" height="40"
+src="https://banner2.cleanpng.com/20181109/pi/kisspng-logo-image-python-font-product-spread-networks-and-seaborn-team-up-to-provide-sea-5be5f5e0aa1a53.8473640515417973446968.jpg" width="60" height="40"
 />
 <img
-src="https://www.firelinescience.com/wp-content/uploads/2019/09/SciPy-Logo.png" width="70" height="40"
+src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" width="70" height="40"
 />
 <img
-src="https://repository-images.githubusercontent.com/33702544/b4400c80-718b-11e9-9f3a-306c07a5f3de" width="70" height="40"
+src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" width="70" height="40"
 />
 <img
-src="https://p.kindpng.com/picc/s/159-1596083_python-logo-png-transparent-images-python-language-png.png" width="70" height="40"
+src="https://vistapointe.net/images/python-wallpaper-3.jpg" width="65" height="30"
 />
 <img
 src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo-black-and-white.png" width="70" height="40"
@@ -39,16 +39,16 @@ src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-serve
 src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="70" height="40"
 />
 <img
-src="https://logos-download.com/wp-content/uploads/2016/09/Slack_logo.png" width="70" height="40"
+src="https://logos-download.com/wp-content/uploads/2016/09/Slack_logo.png" width="60" height="40"
 />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
+ ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
+
 
 <!--
-
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=lightgrey)
-
 
 
 
