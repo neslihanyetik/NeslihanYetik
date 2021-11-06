@@ -9,7 +9,7 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:neslihanyetik5@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@neslihanyetik5)
 
-## 💻 Python Libraries and Languages 
+## 💻 Libraries, Languages and Tools:
 
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="70" height="40"/> </a>
