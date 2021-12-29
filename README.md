@@ -27,8 +27,8 @@
   
 
  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=dark" alt="my github stats" width="45%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=dark" alt="my commit status" width="45%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=dark" alt="my github stats" width="42%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=dark" alt="my commit status" width="42%" /> </p>
 
  ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=orange)
 
