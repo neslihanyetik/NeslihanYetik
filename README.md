@@ -7,8 +7,8 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neslihan-yetik/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/neslihanyetik)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@neslihanyetik5)
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:neslihanyetik5@gmail.com)
-<a href="https://public.tableau.com/app/profile/neslihan.yetik" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="30"/> </a>
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=black)](mailto:neslihanyetik5@gmail.com)
+<a href="https://public.tableau.com/app/profile/neslihan.yetik" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsN6dl3pac19-gCdLN0p68lZN9er1LNG2tj4mJAr_A2ZtvXP3mmnj1WxKKP2TxIAMELQ&usqp=CAU" alt="Tableau" height="30"/> </a>
 
 ## 💻 Libraries, Languages and Tools:
 
@@ -27,13 +27,14 @@
   
 
  <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=white-black" alt="my github stats" width="40%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black" alt="my commit status" width="40%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=dark" alt="my github stats" width="45%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=dark" alt="my commit status" width="45%" /> </p>
 
+ ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=orange)
 
 
 <!--
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
+
 
 
 
