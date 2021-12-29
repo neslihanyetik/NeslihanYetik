@@ -31,9 +31,11 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=white-black" alt="my commit status" width="40%" /> </p>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
 
 <!--
+![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
+
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=ff69b4)
 
