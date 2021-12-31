@@ -1,6 +1,6 @@
  ## Hi there 👋
 
-  - 🤸‍♀️  I'm interested in Data Science and I'm currently learning Data Analysis, Data Visualization Tools, Machine Learning.
+  - 🤸‍♀️  I'm interested in **Data Science** and I'm currently learning **Data Analysis, Data Visualization Tools, Machine Learning.**
   - 👯  I love research and development.
 
 ## 🕵️‍♀️ Social:
