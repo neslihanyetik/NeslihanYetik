@@ -1,9 +1,8 @@
- ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFA07A&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Neslihan+Yetik;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
- - 🤸‍♀️  I'm interested in **Data Science.** 
+
+- 🤸‍♀️  I'm interested in **Artificial Intelligence and Data Science.** 
  - 👯  I love research and development.
- - 🤖  I'm currently learning **Data Analysis, Data Visualization Tools, Machine Learning, Deep Learning.**
- 
 
 ## 🕵️‍♀️ Social:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/neslihan-yetik/)
@@ -12,29 +11,24 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=black)](mailto:neslihanyetik5@gmail.com)
 <a href="https://public.tableau.com/app/profile/neslihan.yetik" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsN6dl3pac19-gCdLN0p68lZN9er1LNG2tj4mJAr_A2ZtvXP3mmnj1WxKKP2TxIAMELQ&usqp=CAU" alt="Tableau" height="30"/> </a>
 
-## 💻 Libraries, Languages and Tools:
+  Property | Data
+--- | --- 
+**Language / IDE**  | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) 
+**Databases**  | <img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" alt="SQL" data-canonical-src="https://img.shields.io/badge/-SQL-black?style=flat-square&amp;logo=postgresql&amp;logoColor=blue" style="max-width: 100%;">
+**Tools & Platform**  | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Machine Learning / Deep Learning frameworks**  | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+ 
+ 
+ 
+ 
+ 
+ ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=neslihanyetik&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=radical&include_all_commits=true)
+
+ ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=grey)
 
 
-<a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="70" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://bids.berkeley.edu/sites/default/files/styles/250x140/public/projects/scipy_logo_450x254.png?itok=iYqgsiQs" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://static.wixstatic.com/media/e16c6a_3ad31c0baa1d45e88d15b1f9ed24b576~mv2.png/v1/fit/w_400%2Ch_232%2Cal_c/file.png" alt="Tableau" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://vistapointe.net/images/python-wallpaper-3.jpg" alt="Python" width="50" height="25"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  width="60" height="30"/>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" alt="mssql" width="60" height="30"/>
-<a href="#" target="_blank"> <img src="https://aptgadget.com/wp-content/uploads/2018/10/jira-alternatives-1024x501.png" width="60" height="30"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" width="50" height="25"/> </a>
-  
-
- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=neslihanyetik&theme=dark" alt="my github stats" width="42%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neslihanyetik&theme=dark" alt="my commit status" width="42%" /> </p>
-
- ![](https://komarev.com/ghpvc/?username=your-github-neslihanyetik&color=orange)
-
-
+ 
+ 
 <!--
 
 
@@ -62,4 +56,7 @@ Here are some ideas to get you started:
 
 - [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neslihanyetik&theme=white-black)](https://github.com/anuraghazra/github-readme-stats)
 
+ - 🤸‍♀️  I'm interested in **Data Science.** 
+ - 👯  I love research and development.
+ - 🤖  I'm currently learning **Data Analysis, Data Visualization Tools, Machine Learning, Deep Learning.**
 -->
