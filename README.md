@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Neslihan+Yetik;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=020608&lines=Hi+there+👋,+I'm+Neslihan;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 - 🤸‍♀️  I'm interested in **Artificial Intelligence and Data Science.** 
  - 👯  I love research and development.
